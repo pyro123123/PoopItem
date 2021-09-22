@@ -1,0 +1,6 @@
+---
+name: poopItem
+version: 0.0.1
+main: CaptMusix\poopItem\Main
+api: 3.22.5
+...
