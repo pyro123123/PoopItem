@@ -9,7 +9,6 @@ use pocketmine\ {
   event\Listener,
   event\player\PlayerToggleSneakEvent,
   Player,
-  item\ItemFactory,
   item\Item
 };
 
