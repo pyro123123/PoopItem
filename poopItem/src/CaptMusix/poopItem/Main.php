@@ -14,6 +14,7 @@ use pocketmine\ {
 
 class Main extends PluginBase implements Listener {
   public function onEnable() {
+    $this->getServer()->getLogger()->info("PoopItem have enabled");
     $this->getServer()->getPluginManager()->registerEvents($this, $this);
   }
 
