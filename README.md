@@ -1,25 +1,4 @@
 
-<style>
-   #first h1{
-     color: cyan;
-     text-align: center;
-   }
-   
-   #second h1{
-     
-     color: cyan;
-     text-align: center;
-
-   }
-   
-   #third h1 {
-     color: cyan;
-     text-align: center;
-
-   }
-   
-</style>
-
 <div id="first">
 <h1>PoopItem</h1>
 
