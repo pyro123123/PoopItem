@@ -1,6 +1,4 @@
 
-<script src="https://kit.fontawesome.com/98e7e6fae3.js" crossorigin="anonymous"></script>
-
 <style>
    #first h1{
      color: cyan;
