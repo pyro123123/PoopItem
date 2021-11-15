@@ -1,0 +1,7 @@
+---
+preventCreative: "true"
+armorOnly: "false"
+toolOnly: "false"
+foodOnly: "false"
+all: "true"
+...

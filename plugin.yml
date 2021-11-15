@@ -1,0 +1,10 @@
+---
+name: poopItem
+version: 1.0.0
+main: CaptMusix\poopItem\Main
+api: 3.22.5
+
+commands:
+ psetting:
+  description: Change config.yml for poopItem plugin
+...
