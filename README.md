@@ -8,7 +8,7 @@ I created this plugin because im bored. <br/>
 This plugin will activate everytime you sneak in-Game </p>
 
 <ul>
-<li>Go to config.yml and change the setting to what you needed <br/>You can do /psetting [set || list ] [setting name] [true || false] in game to change the setting in config.yml<br/>[setting name] and [true || false] doesnt require if you do !psetting list<br/>For example:<br/> !psetting set armorOnly true<br/>!psetting list</li>
+<li>Go to config.yml and change the setting to what you needed <br/>You can do /psetting [set || list ] [setting name] [true || false] in game to change the setting in config.yml<br/>[setting name] and [true || false] doesnt require if you do /psetting list<br/>For example:<br/> /psetting set armorOnly true<br/>/psetting list</li>
 </ul>
 
 </div>
